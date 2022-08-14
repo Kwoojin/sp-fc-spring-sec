@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/gradle,intellij+all,java,visualstudiocode,windows,macos
-# Edit at https://www.toptal.com/developers/gitignore?templates=gradle,intellij+all,java,visualstudiocode,windows,macos
+# Created by https://www.toptal.com/developers/gitignore/api/java,intellij+all,gradle,windows,macos,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=java,intellij+all,gradle,windows,macos,visualstudiocode
 
 ### Intellij+all ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
@@ -83,6 +83,7 @@ fabric.properties
 ### Intellij+all Patch ###
 # Ignore everything but code style settings and run configurations
 # that are supposed to be shared within teams.
+
 
 .idea/*
 
@@ -226,4 +227,4 @@ gradle-app.setting
 # Java heap dump
 *.hprof
 
-# End of https://www.toptal.com/developers/gitignore/api/gradle,intellij+all,java,visualstudiocode,windows,macos
+# End of https://www.toptal.com/developers/gitignore/api/java,intellij+all,gradle,windows,macos,visualstudiocode
