@@ -4,7 +4,7 @@ dependencies {
 
     implementation("$boot:spring-boot-starter-web")
     implementation("$boot:spring-boot-starter-thymeleaf")
-    implementation("org.thymeleaf.extras:thymeleaf-extras-springsecurity5")
+    implementation("org.thymeleaf.extras:thymeleaf-extras-springsecurity5") //thymeleaf 모듈
     implementation("nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect")
 
 }
