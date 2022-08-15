@@ -1,9 +1,4 @@
-
 apply from: "../web-common.gradle"
-
 dependencies {
-
     implementation("$boot:spring-boot-starter-oauth2-client")
-
 }
-
